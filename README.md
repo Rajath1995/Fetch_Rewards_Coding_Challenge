@@ -8,7 +8,7 @@ This application takes two text strings as input and provides a value between 0 
 including the boundaries 0 being not similar and 1 being most similar or same. The values can
 be between 0 to 1 (including boundaries 0 and 1) ex output could  be 0, 0.4, 0.7, 0.8, 1
 
-Required Softwares : Python IDE like Pycharm and packages like 1. math 2. string 3. flask. 4. pandas 5. numpy 
+Required Softwares : Python 3, Python IDE like Pycharm and packages like 1. math 2. string 3. flask. 4. pandas 5. numpy 
 
 Steps to execute the Code. 
 
