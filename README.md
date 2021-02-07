@@ -16,10 +16,8 @@ There is a video shared with steps on how to execute the above code and link to 
 
 Step 1: Download or clone the repository.
 Step 2 : Open the repository in Pycharm IDE. 
-Step 3: Create an python3 interpreter env in the main folder i.e. Fetch_Rewards_Coding_Challenge and install pacakages 1. math, 2. string 3. flask by using the below command
-pip install math 
-pip install string 
-pip install flask
+Step 3: Create an python3 interpreter env in the main folder i.e. Fetch_Rewards_Coding_Challenge and install pacakages 1. math, 2. string 3. flask 4. Numpy and 5. Pandas by using the below command
+pip install 
 step 4: run the file app.py and click on the http://127.0.0.1:5000/ generated in the terminal. 
-step 5: on the browser terminal there will be two text boxed where we can enter the texts or documents where we can compare the similarity between them. 
+step 5: on the browser terminal there will be two text boxes where we can enter the texts or documents which we can compare the similarity between them. 
 step 6: click on the get similarity button to get the value. 
