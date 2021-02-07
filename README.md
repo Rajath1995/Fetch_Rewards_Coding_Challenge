@@ -24,6 +24,6 @@ step 6: click on the get similarity button to get the value.
 
 Images from the application
 
-![](templates/image1.png)
+![](templates/image1.PNG)
 
-![](templates/image2.png)
+![](templates/image2.PNG)
