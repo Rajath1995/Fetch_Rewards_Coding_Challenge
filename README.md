@@ -21,3 +21,8 @@ pip install
 step 4: run the file app.py and click on the http://127.0.0.1:5000/ generated in the terminal. 
 step 5: on the browser terminal there will be two text boxes where we can enter the texts or documents which we can compare the similarity between them. 
 step 6: click on the get similarity button to get the value. 
+
+Images from the application
+
+![templates](image1.png)
+![templates](image2.png)
